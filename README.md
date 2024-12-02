@@ -18,7 +18,7 @@ To run this project, you need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/website-monitoring-tool.git
+   git clone https://github.com/guusebumps/website-monitoring-tool.git
    ```
 
 2. Navigate to the project directory:
